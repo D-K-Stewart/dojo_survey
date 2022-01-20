@@ -1,0 +1,87 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+}
+h1 {
+    padding:30px;
+    background-color: lightgray;
+    
+}
+h3{
+    padding:30px;
+    background-color: lightgray;
+}
+#main{
+    display: flex;
+    display: inline-block;
+    background-color: aliceblue;
+    border-outline: 1px solid black;
+    box-shadow: 2px 2px 2px 2px;
+    padding-top: 30px;
+    margin-top:50px;
+
+#main2{
+    display: flex;
+    display: inline-block;
+}
+}
+p{
+    padding: 10px;
+}
+br{
+    margin-top: 5px;
+}
+.br1{
+    margin-bottom: 5px;
+}
+.br2{
+    padding-bottom:5px;
+}
+form{
+    padding: 5px;
+}
+
+#empty{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+
+}
+input{
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+select{
+    margin-bottom: 10px;
+    width: 50%;
+    text-align: center;
+    background-color: lightgray;
+    margin-top: 5px;
+}
+#submit{
+    margin-top:5px;
+    margin-bottom:5px;
+    background-image: linear-gradient(black,blue);
+    color: white;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 90px;
+}
+#back{
+    margin-top:5px;
+    background-image: linear-gradient(black,blue);
+    color: white;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 90px;
+}
+h1 {
+    
+}
